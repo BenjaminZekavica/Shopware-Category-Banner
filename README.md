@@ -14,7 +14,7 @@ Füge zu deinem Template einfach die Datei text.tpl  hinzu im Ordner frontend/li
      
     {block name="frontend_listing_text_headline" prepend}
      <img class="category--picture" src="{$sCategoryContent.media.path}" alt="{$sCategoryContent.cmsheadline}">
-    {/block}``
+    {/block}
 
 	
 Ansonsten kannst du ganz einfach das Blank Theme für deine Projekte ganz einfach übernehmen.
